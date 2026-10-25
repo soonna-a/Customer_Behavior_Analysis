@@ -156,6 +156,3 @@ git clone https://github.com/YOUR_USERNAME/Customer-Shopping-Behavior-Analysis.g
 
 **Sona**
 
-B.Tech Computer Science Engineering
-
-GitHub: [Sona1018](https://github.com
